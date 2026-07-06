@@ -1,0 +1,11 @@
+models/
+*.ckpt
+*.pth
+records100/
+records500/
+*.dat
+*.hea
+*.xyz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
